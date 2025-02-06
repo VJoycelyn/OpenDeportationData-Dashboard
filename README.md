@@ -6,8 +6,8 @@ OpenDeportationData Dashboard
 **OpenDeportationData Dashboard** is an open-source, real-time deportation data visualization tool. It helps researchers, journalists, and policymakers analyze deportation trends using public data sources. The dashboard presents deportation reports as interactive visualizations, making data more accessible and actionable.  
 
 ## 🎯 Features  
-✅ Real-time deportation data processing  
-✅ Interactive charts, heatmaps, and trend analysis  
+✅ Real-time Data: Continously udated deportation statistics
+✅ Interactive Visualizations: Graphs and charts to explore trends
 ✅ API integrations with public deportation databases  
 ✅ Secure data handling and privacy compliance  
 ✅ Open-source and community-driven  
