@@ -1,0 +1,110 @@
+{
+    "$schema": "https://floss.fund/schema/v1.0.0/funding.schema.json#",
+    "version": "v1.0.0",
+    "entity": {
+        "type": "individual",
+        "role": "owner",
+        "name": "Venetta Smithen",
+        "email": "venettasmithen28@gmail.com",
+        "phone": "8696639220",
+        "description": "An open-source, real-time deportation data visualization dashboard that helps researchers, policymakers, and journalists analyze deportation data. This project integrates public deportation datasets and provides interactive visualizations to enhance public knowledge.",
+        "webpageUrl": {
+            "url": "https://yourprojectsite.com",
+            "wellKnown": ""
+        }
+    },
+    "projects": [
+        {
+            "guid": "deportation-dashboard",
+            "name": "Deportation Data Dashboard",
+            "description": "The Deportation Data Dashboard provides real-time data about deportations, offering insights to media houses, organizations, and other entities interested in monitoring deportation trends, policies, and impacts.",
+            "webpageUrl": {
+                "url": "https://yourprojectsite.com/deportation-dashboard"
+            },
+            "repositoryUrl": {
+                "url": "https://github.com/VJoycelyn/deportation-dashboard",
+                "wellKnown": "https://github.com/VJoycelyn/deportation-dashboard/blob/main/.well-known/funding-manifest-urls"
+            },
+            "licenses": ["spdx:MIT"],
+            "tags": ["deportation-data", "data-analytics", "real-time-dashboard", "migration-policy"]
+        }
+    ],
+    "funding": {
+        "channels": [
+            {
+                "guid": "paypal",
+                "type": "payment-provider",
+                "address": "https://paypal.me/venettasmithen1?country.x=KN&locale.x=en_US",
+                "description": "Pay with your debit/credit card through this gateway and set up recurring subscriptions."
+            },
+            {
+                "guid": "bank-transfer",
+                "type": "bank",
+                "address": "Account: 3635778 (Branch: SKANB)",
+                "description": "Direct bank transfers. Please email me for details."
+            }
+        ],
+        "plans": [
+            {
+                "guid": "hosting-monthly",
+                "status": "active",
+                "name": "Hosting support",
+                "description": "This will cover the monthly server hosting costs for the Deportation Data Dashboard.",
+                "amount": 5000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "channels": ["paypal", "bank-transfer"]
+            },
+            {
+                "guid": "developer-time",
+                "status": "active",
+                "name": "Developer compensation",
+                "description": "This will cover the cost of one developer working part-time on the Deportation Data Dashboard.",
+                "amount": 12000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "channels": ["paypal", "bank-transfer"]
+            },
+            {
+                "guid": "marketing-and-outreach",
+                "status": "active",
+                "name": "Marketing and Outreach",
+                "description": "This plan covers costs associated with promoting the dashboard and reaching out to media houses and organizations.",
+                "amount": 3000,
+                "currency": "USD",
+                "frequency": "one-time",
+                "channels": ["paypal", "bank-transfer"]
+            },
+            {
+                "guid": "software-tools",
+                "status": "active",
+                "name": "Software tools and services",
+                "description": "This will cover the cost of software tools and services required for building and maintaining the dashboard.",
+                "amount": 5000,
+                "currency": "USD",
+                "frequency": "one-time",
+                "channels": ["paypal", "bank-transfer"]
+            },
+            {
+                "guid": "angel-plan",
+                "status": "active",
+                "name": "Goodwill plan",
+                "description": "Pay anything you wish to show your goodwill for the project.",
+                "amount": 3000,
+                "currency": "USD",
+                "frequency": "one-time",
+                "channels": ["paypal", "bank-transfer"]
+            }
+        ],
+        "history": [
+            {
+                "year": 2025,
+                "incomeRequested": 30000,
+                "expenses": 22000,
+                "taxes": 2000,
+                "currency": "USD",
+                "description": "Initial funding requested for server setup and developer work."
+            }
+        ]
+    }
+}
