@@ -39,6 +39,6 @@ We welcome contributions! If you'd like to contribute:
 This project is licensed under the **MIT License** – free to use and modify.  
 
 ## 📬 Contact  
-- **GitHub**: [https://github.com/yourrepo](https://github.com/yourrepo)  
+- **GitHub**: [DeportationData-Dashboard][https://github.com/VJoycelyn/OpenDeportationData-Dashboard]
 - **Twitter**: [@opendeportationdata](https://twitter.com/opendeportationdata)  
 - **Email**: contact@yourproject.com  
